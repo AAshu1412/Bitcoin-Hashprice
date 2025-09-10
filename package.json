@@ -1,0 +1,19 @@
+{
+  "name": "btc-hashprice-api",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node test1.js"
+  },
+  "dependencies": {
+    "arweave": "^1.15.7",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "env": "^0.0.2",
+    "express": "^5.1.0",
+    "mongodb": "^6.19.0",
+    "node-fetch": "^3.3.2",
+    "nodemon": "^3.1.10"
+  }
+}
